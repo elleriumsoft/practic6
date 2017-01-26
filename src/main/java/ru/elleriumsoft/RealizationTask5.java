@@ -23,7 +23,7 @@ public class RealizationTask5
             }
             catch (UnsupportedOperationException ex)
             {
-                System.out.println("Ошибка изменения вектора №" + i + ": " ex.getMessage());
+                System.out.println("Ошибка изменения вектора №" + i + ": " + ex.getMessage());
             }
         }
         System.out.println("Измененный массив: " + arrayVector.toString());

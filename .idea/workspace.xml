@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56752b23-3118-4b4e-8bf5-0b4b506eb2b2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/elleriumsoft/RealizationTask5.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/ru/elleriumsoft/realizationTask1.java" afterPath="$PROJECT_DIR$/src/main/java/ru/elleriumsoft/RealizationTask1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/ru/elleriumsoft/realizationTask2.java" afterPath="$PROJECT_DIR$/src/main/java/ru/elleriumsoft/RealizationTask2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/ru/elleriumsoft/realizationTask3.java" afterPath="$PROJECT_DIR$/src/main/java/ru/elleriumsoft/RealizationTask3.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/ru/elleriumsoft/realizationTask4.java" afterPath="$PROJECT_DIR$/src/main/java/ru/elleriumsoft/RealizationTask4.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ru/elleriumsoft/App.java" afterPath="$PROJECT_DIR$/src/main/java/ru/elleriumsoft/App.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ru/elleriumsoft/Arrays/ArrayVector.java" afterPath="$PROJECT_DIR$/src/main/java/ru/elleriumsoft/Arrays/ArrayVector.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ru/elleriumsoft/Arrays/LinkedListVector.java" afterPath="$PROJECT_DIR$/src/main/java/ru/elleriumsoft/Arrays/LinkedListVector.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ru/elleriumsoft/Arrays/Vector.java" afterPath="$PROJECT_DIR$/src/main/java/ru/elleriumsoft/Arrays/Vector.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -122,7 +113,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/ru/elleriumsoft/RealizationTask5.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="376">
-              <caret line="25" column="72" lean-forward="false" selection-start-line="25" selection-start-column="72" selection-end-line="25" selection-end-column="72" />
+              <caret line="25" column="76" lean-forward="false" selection-start-line="25" selection-start-column="76" selection-end-line="25" selection-end-column="76" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -625,7 +616,14 @@
       <option name="project" value="LOCAL" />
       <updated>1485433601569</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="4.5 задание">
+      <created>1485435347048</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1485435347048</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -672,7 +670,8 @@
     <MESSAGE value="2 задание" />
     <MESSAGE value="3 задание" />
     <MESSAGE value="4 задание" />
-    <option name="LAST_COMMIT_MESSAGE" value="4 задание" />
+    <MESSAGE value="4.5 задание" />
+    <option name="LAST_COMMIT_MESSAGE" value="4.5 задание" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1394,7 +1393,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/ru/elleriumsoft/RealizationTask5.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="376">
-          <caret line="25" column="72" lean-forward="false" selection-start-line="25" selection-start-column="72" selection-end-line="25" selection-end-column="72" />
+          <caret line="25" column="76" lean-forward="false" selection-start-line="25" selection-start-column="76" selection-end-line="25" selection-end-column="76" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
