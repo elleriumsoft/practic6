@@ -107,8 +107,25 @@ public class ArrayVector
         this.array = array;
     }
 
+    public Vector getVector(int number)
+    {
+        return array[number];
+    }
+
+    public void replaceVector(Vector vector, int number) throws UnsupportedOperationException
+    {
+        array[number].setX(vector.getX());
+        array[number].setY(vector.getY());
+    }
+
     public int length()
     {
         return array.length;
+    }
+
+    public void unmodifiableVector(int numberVector)
+    {
+        if (numberVector > length()) return;
+        array[numberVector].setUnmodifiable(true);
     }
 }

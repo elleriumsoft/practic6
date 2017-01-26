@@ -7,6 +7,7 @@ public class Vector
 {
     private float x;
     private float y;
+    private boolean unmodifiable = false;
 
     public Vector(float x, float y)
     {
@@ -19,8 +20,12 @@ public class Vector
         return x;
     }
 
-    public void setX(float x)
+    public void setX(float x) throws UnsupportedOperationException
     {
+        if (isUnmodifiable())
+        {
+            throw new UnsupportedOperationException("Вектор запрещено менять");
+        }
         this.x = x;
     }
 
@@ -29,8 +34,22 @@ public class Vector
         return y;
     }
 
-    public void setY(float y)
+    public void setY(float y) throws UnsupportedOperationException
     {
+        if (isUnmodifiable())
+        {
+            throw new UnsupportedOperationException("Вектор запрещено менять");
+        }
         this.y = y;
+    }
+
+    public boolean isUnmodifiable()
+    {
+        return unmodifiable;
+    }
+
+    public void setUnmodifiable(boolean unmodifiable)
+    {
+        this.unmodifiable = unmodifiable;
     }
 }

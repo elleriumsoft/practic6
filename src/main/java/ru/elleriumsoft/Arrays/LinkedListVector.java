@@ -79,4 +79,10 @@ public class LinkedListVector extends LinkedList<Vector>
         }
         return copy;
     }
+
+    public void unmodifiableVector(int numberVector)
+    {
+        if (numberVector > size()) return;
+        get(numberVector).setUnmodifiable(true);
+    }
 }
