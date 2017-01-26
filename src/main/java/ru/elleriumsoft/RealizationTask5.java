@@ -1,6 +1,7 @@
 package ru.elleriumsoft;
 
 import ru.elleriumsoft.Arrays.ArrayVector;
+import ru.elleriumsoft.Arrays.LinkedListVector;
 import ru.elleriumsoft.Arrays.Vector;
 
 /**
@@ -27,5 +28,22 @@ public class RealizationTask5
             }
         }
         System.out.println("Измененный массив: " + arrayVector.toString());
+
+        LinkedListVector linkedListVector = new LinkedListVector();
+        linkedListVector.fillArrayRandomVector(10);
+        System.out.println("Исходный массив: " + linkedListVector.toString());
+        linkedListVector.unmodifiableVector(3);
+        for (int i = 0; i<arrayVector.length(); i++)
+        {
+            try
+            {
+                linkedListVector.replaceVector(new Vector(15, 25), i);
+            }
+            catch (UnsupportedOperationException ex)
+            {
+                System.out.println("Ошибка изменения вектора №" + i + ": " + ex.getMessage());
+            }
+        }
+        System.out.println("Измененный массив: " + linkedListVector.toString());
     }
 }

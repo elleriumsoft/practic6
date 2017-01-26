@@ -85,4 +85,10 @@ public class LinkedListVector extends LinkedList<Vector>
         if (numberVector > size()) return;
         get(numberVector).setUnmodifiable(true);
     }
+
+    public void replaceVector(Vector vector, int number) throws UnsupportedOperationException
+    {
+        get(number).setX(vector.getX());
+        get(number).setY(vector.getY());
+    }
 }
