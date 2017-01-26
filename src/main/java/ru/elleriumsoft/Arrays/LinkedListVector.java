@@ -68,4 +68,15 @@ public class LinkedListVector extends LinkedList<Vector>
         }
         return hash;
     }
+
+    @Override
+    public Object clone()
+    {
+        LinkedListVector copy = new LinkedListVector();
+        for (int i = 0; i<size(); i++)
+        {
+            copy.add(i, new Vector(get(i).getX(), get(i).getY()));
+        }
+        return copy;
+    }
 }

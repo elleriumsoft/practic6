@@ -25,5 +25,6 @@ public class realizationTask3
         linkedListVector.fillArrayRandomVector(20);
         System.out.println("LinkedList: " + linkedListVector.toString());
         System.out.printf("Его hash = " + linkedListVector.hashCode());
+        System.out.println("");
     }
 }

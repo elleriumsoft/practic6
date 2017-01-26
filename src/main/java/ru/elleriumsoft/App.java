@@ -7,5 +7,6 @@ public class App
         new realizationTask1().start();
         new realizationTask2().start();
         new realizationTask3().start();
+        new realizationTask4().start();
     }
 }

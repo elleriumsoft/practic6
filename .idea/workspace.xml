@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56752b23-3118-4b4e-8bf5-0b4b506eb2b2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/elleriumsoft/realizationTask3.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/ru/elleriumsoft/realisationTask1.java" afterPath="$PROJECT_DIR$/src/main/java/ru/elleriumsoft/realizationTask1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/elleriumsoft/realizationTask4.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ru/elleriumsoft/App.java" afterPath="$PROJECT_DIR$/src/main/java/ru/elleriumsoft/App.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ru/elleriumsoft/Arrays/ArrayVector.java" afterPath="$PROJECT_DIR$/src/main/java/ru/elleriumsoft/Arrays/ArrayVector.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ru/elleriumsoft/Arrays/LinkedListVector.java" afterPath="$PROJECT_DIR$/src/main/java/ru/elleriumsoft/Arrays/LinkedListVector.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ru/elleriumsoft/realizationTask3.java" afterPath="$PROJECT_DIR$/src/main/java/ru/elleriumsoft/realizationTask3.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -30,8 +30,8 @@
       <file leaf-file-name="App.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ru/elleriumsoft/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="39" lean-forward="false" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+            <state relative-caret-position="153">
+              <caret line="9" column="28" lean-forward="false" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -40,8 +40,8 @@
       <file leaf-file-name="LinkedListVector.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ru/elleriumsoft/Arrays/LinkedListVector.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="59" column="5" lean-forward="true" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+            <state relative-caret-position="478">
+              <caret line="76" column="9" lean-forward="true" selection-start-line="76" selection-start-column="9" selection-end-line="76" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -72,27 +72,39 @@
       <file leaf-file-name="ArrayVector.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ru/elleriumsoft/Arrays/ArrayVector.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="86" selection-end-column="5" />
+            <state relative-caret-position="221">
+              <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="97" selection-end-column="5" />
               <folding>
                 <element signature="e#176#177#0" expanded="true" />
                 <element signature="e#221#222#0" expanded="true" />
-                <element signature="e#2194#2195#0" expanded="true" />
-                <element signature="e#2222#2223#0" expanded="true" />
-                <element signature="e#2270#2271#0" expanded="true" />
-                <element signature="e#2304#2305#0" expanded="true" />
-                <element signature="e#2335#2336#0" expanded="true" />
-                <element signature="e#2370#2371#0" expanded="true" />
+                <element signature="e#2496#2497#0" expanded="true" />
+                <element signature="e#2524#2525#0" expanded="true" />
+                <element signature="e#2572#2573#0" expanded="true" />
+                <element signature="e#2606#2607#0" expanded="true" />
+                <element signature="e#2637#2638#0" expanded="true" />
+                <element signature="e#2672#2673#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="realizationTask3.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="realizationTask4.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ru/elleriumsoft/realizationTask4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="512">
+              <caret line="31" column="28" lean-forward="false" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="realizationTask3.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ru/elleriumsoft/realizationTask3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="69" lean-forward="false" selection-start-line="26" selection-start-column="69" selection-end-line="26" selection-end-column="69" />
+            <state relative-caret-position="459">
+              <caret line="27" column="28" lean-forward="false" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -126,7 +138,7 @@
       <file leaf-file-name="Vector.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ru/elleriumsoft/Arrays/Vector.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
+            <state relative-caret-position="187">
               <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
               <folding>
                 <element signature="e#284#285#0" expanded="true" />
@@ -136,64 +148,6 @@
                 <element signature="e#402#403#0" expanded="true" />
                 <element signature="e#439#440#0" expanded="true" />
                 <element signature="e#465#466#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AbstractList.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/util/AbstractList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="511" column="0" lean-forward="false" selection-start-line="511" selection-start-column="0" selection-end-line="526" selection-end-column="5" />
-              <folding>
-                <element signature="e#0#26981#0" expanded="false" />
-                <element signature="e#4449#4450#0" expanded="false" />
-                <element signature="e#4506#4507#0" expanded="false" />
-                <element signature="e#4990#4991#0" expanded="false" />
-                <element signature="e#5047#5048#0" expanded="false" />
-                <element signature="e#5343#5344#0" expanded="false" />
-                <element signature="e#5400#5401#0" expanded="false" />
-                <element signature="e#7627#7628#0" expanded="false" />
-                <element signature="e#7665#7666#0" expanded="false" />
-                <element signature="e#9661#9662#0" expanded="false" />
-                <element signature="e#9693#9694#0" expanded="false" />
-                <element signature="e#9883#9884#0" expanded="false" />
-                <element signature="e#9921#9922#0" expanded="false" />
-                <element signature="e#11802#11803#0" expanded="false" />
-                <element signature="e#11849#11850#0" expanded="false" />
-                <element signature="e#13024#13025#0" expanded="false" />
-                <element signature="e#13062#13063#0" expanded="false" />
-                <element signature="e#13102#13103#0" expanded="false" />
-                <element signature="e#13144#13145#0" expanded="false" />
-                <element signature="e#13579#13580#0" expanded="false" />
-                <element signature="e#13616#13617#0" expanded="false" />
-                <element signature="e#13654#13655#0" expanded="false" />
-                <element signature="e#13693#13694#0" expanded="false" />
-                <element signature="e#22195#22196#0" expanded="false" />
-                <element signature="e#22251#22252#0" expanded="false" />
-                <element signature="e#24063#24064#0" expanded="false" />
-                <element signature="e#24101#24102#0" expanded="false" />
-                <element signature="e#24472#24473#0" expanded="false" />
-                <element signature="e#24509#24510#0" expanded="false" />
-                <element signature="e#24792#24793#0" expanded="false" />
-                <element signature="e#24849#24850#0" expanded="false" />
-                <element signature="e#25083#25084#0" expanded="false" />
-                <element signature="e#25142#25143#0" expanded="false" />
-                <element signature="e#25382#25383#0" expanded="false" />
-                <element signature="e#25443#25444#0" expanded="false" />
-                <element signature="e#25485#25486#0" expanded="false" />
-                <element signature="e#25550#25551#0" expanded="false" />
-                <element signature="e#25740#25741#0" expanded="false" />
-                <element signature="e#25780#25781#0" expanded="false" />
-                <element signature="e#26007#26008#0" expanded="false" />
-                <element signature="e#26069#26070#0" expanded="false" />
-                <element signature="e#26442#26443#0" expanded="false" />
-                <element signature="e#26496#26497#0" expanded="false" />
-                <element signature="e#26798#26799#0" expanded="false" />
-                <element signature="e#26845#26846#0" expanded="false" />
-                <element signature="e#26903#26904#0" expanded="false" />
-                <element signature="e#26977#26978#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -241,9 +195,10 @@
         <option value="$PROJECT_DIR$/src/main/java/ru/elleriumsoft/realisationTask1.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/elleriumsoft/realizationTask1.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/elleriumsoft/App.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/elleriumsoft/realizationTask3.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/elleriumsoft/Arrays/ArrayVector.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/elleriumsoft/Arrays/LinkedListVector.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ru/elleriumsoft/realizationTask3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/elleriumsoft/realizationTask4.java" />
       </list>
     </option>
   </component>
@@ -645,7 +600,14 @@
       <option name="project" value="LOCAL" />
       <updated>1485430915337</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="3 задание">
+      <created>1485432297120</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1485432297120</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -662,7 +624,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -690,7 +652,8 @@
     <MESSAGE value="start" />
     <MESSAGE value="1 задание" />
     <MESSAGE value="2 задание" />
-    <option name="LAST_COMMIT_MESSAGE" value="2 задание" />
+    <MESSAGE value="3 задание" />
+    <option name="LAST_COMMIT_MESSAGE" value="3 задание" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1292,22 +1255,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/elleriumsoft/Arrays/Vector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-          <folding>
-            <element signature="e#284#285#0" expanded="true" />
-            <element signature="e#321#322#0" expanded="true" />
-            <element signature="e#347#348#0" expanded="true" />
-            <element signature="e#378#379#0" expanded="true" />
-            <element signature="e#402#403#0" expanded="true" />
-            <element signature="e#439#440#0" expanded="true" />
-            <element signature="e#465#466#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ru/elleriumsoft/realizationTask2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -1345,14 +1292,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/elleriumsoft/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="39" lean-forward="false" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ru/elleriumsoft/realizationTask1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -1361,35 +1300,69 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/elleriumsoft/Arrays/ArrayVector.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/elleriumsoft/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="86" selection-end-column="5" />
-          <folding>
-            <element signature="e#176#177#0" expanded="true" />
-            <element signature="e#221#222#0" expanded="true" />
-            <element signature="e#2194#2195#0" expanded="true" />
-            <element signature="e#2222#2223#0" expanded="true" />
-            <element signature="e#2270#2271#0" expanded="true" />
-            <element signature="e#2304#2305#0" expanded="true" />
-            <element signature="e#2335#2336#0" expanded="true" />
-            <element signature="e#2370#2371#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/elleriumsoft/Arrays/LinkedListVector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="59" column="5" lean-forward="true" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+        <state relative-caret-position="153">
+          <caret line="9" column="28" lean-forward="false" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ru/elleriumsoft/realizationTask3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="69" lean-forward="false" selection-start-line="26" selection-start-column="69" selection-end-line="26" selection-end-column="69" />
+        <state relative-caret-position="459">
+          <caret line="27" column="28" lean-forward="false" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/elleriumsoft/Arrays/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#439#440#0" expanded="true" />
+            <element signature="e#465#466#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/elleriumsoft/Arrays/ArrayVector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="97" selection-end-column="5" />
+          <folding>
+            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#2496#2497#0" expanded="true" />
+            <element signature="e#2524#2525#0" expanded="true" />
+            <element signature="e#2572#2573#0" expanded="true" />
+            <element signature="e#2606#2607#0" expanded="true" />
+            <element signature="e#2637#2638#0" expanded="true" />
+            <element signature="e#2672#2673#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/elleriumsoft/Arrays/LinkedListVector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="76" column="9" lean-forward="true" selection-start-line="76" selection-start-column="9" selection-end-line="76" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/elleriumsoft/realizationTask4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="31" column="28" lean-forward="false" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

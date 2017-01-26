@@ -86,6 +86,17 @@ public class ArrayVector
         return hash;
     }
 
+    @Override
+    public Object clone() throws CloneNotSupportedException
+    {
+        ArrayVector copy = new ArrayVector(length());
+        for (int i = 0; i<length(); i++)
+        {
+            copy.getArray()[i] = new Vector(array[i].getX(), array[i].getY());
+        }
+        return copy;
+    }
+
     public Vector[] getArray()
     {
         return array;
