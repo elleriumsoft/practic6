@@ -6,7 +6,7 @@ import ru.elleriumsoft.Arrays.LinkedListVector;
 /**
  * Created by kokorevds on 26.01.17.
  */
-public class realisationTask1
+public class realizationTask1
 {
     public void start()
     {

@@ -38,7 +38,10 @@ public class ArrayVector
         StringBuffer arrayToString = new StringBuffer("");
         for (int i=0; i<array.length; i++)
         {
-            arrayToString.append('(').append(array[i].getX()).append(',').append(array[i].getY()).append(')');
+            if (array[i] != null)
+            {
+                arrayToString.append('(').append(array[i].getX()).append(',').append(array[i].getY()).append(')');
+            }
         }
         return arrayToString.toString();
     }
@@ -67,6 +70,20 @@ public class ArrayVector
             }
         }
         return true;
+    }
+
+    @Override
+    public int hashCode()
+    {
+        int hash = 0;
+        for (int i = 0; i<length(); i++)
+        {
+            if (array[i] != null)
+            {
+                hash = hash + Float.floatToIntBits(array[i].getX()) + Float.floatToIntBits(array[i].getX());
+            }
+        }
+        return hash;
     }
 
     public Vector[] getArray()

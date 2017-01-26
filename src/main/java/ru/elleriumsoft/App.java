@@ -4,7 +4,8 @@ public class App
 {
     public static void main( String[] args )
     {
-        new realisationTask1().start();
+        new realizationTask1().start();
         new realizationTask2().start();
+        new realizationTask3().start();
     }
 }

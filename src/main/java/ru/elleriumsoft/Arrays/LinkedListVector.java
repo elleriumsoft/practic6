@@ -54,4 +54,18 @@ public class LinkedListVector extends LinkedList<Vector>
         }
         return !(e1.hasNext() || e2.hasNext());
     }
+
+    @Override
+    public int hashCode()
+    {
+        int hash = 0;
+        for (int i = 0; i<size(); i++)
+        {
+            if (get(i) != null)
+            {
+                hash = hash + Float.floatToIntBits(get(i).getX()) + Float.floatToIntBits(get(i).getY());
+            }
+        }
+        return hash;
+    }
 }
